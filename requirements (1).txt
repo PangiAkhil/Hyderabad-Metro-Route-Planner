@@ -1,0 +1,6 @@
+streamlit
+gradio
+pandas
+networkx
+pydeck
+folium
